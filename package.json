@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Prettier config for usage in Pixelmatters projects",
   "main": "index.json",
-  "prettier": "@pixelmatters/prettier-config-pixelmatters",
   "repository": {
     "type": "git",
     "url": "git://github.com/Pixelmatters/prettier-config-pixelmatters.git"
