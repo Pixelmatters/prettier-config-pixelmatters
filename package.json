@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Prettier config for usage in Pixelmatters projects",
   "main": "index.json",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/Pixelmatters/prettier-config-pixelmatters.git"
@@ -13,7 +14,7 @@
   ],
   "author": "Pixelmatters",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "bugs": {
     "url": "https://github.com/Pixelmatters/prettier-config-pixelmatters/issues"
